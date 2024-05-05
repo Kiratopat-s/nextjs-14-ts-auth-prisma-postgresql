@@ -1,7 +1,10 @@
 {
   "name": "nextjs-14-ts-auth",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
+  "author": {
+    "name": "Kiratipat"
+  },
   "scripts": {
     "dev": "next dev",
     "devt": "next dev --turbo",
